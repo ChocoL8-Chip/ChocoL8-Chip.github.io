@@ -1,1 +1,1 @@
-# chocol8-chip.github.io
+# ChocoL8-Chip.github.io
